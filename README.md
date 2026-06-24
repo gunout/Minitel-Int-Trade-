@@ -12,6 +12,9 @@
 2 . INSTALL REQUIREMENTS :
 
     pip install -r requirements.txt
+# RUN INTERFACE
+
+    python serv.py
 
 # FOR WINDOWS 
 
@@ -25,6 +28,9 @@
 
     pip install -r requirements.txt 
 
+# RUN INTERFACE 
+
+    python serv.py
 
 
 <img width="1806" height="1223" alt="Screenshot 2026-06-24 at 13-01-09 MINITEL BOURSE - CAC 40" src="https://github.com/user-attachments/assets/c9cd59f1-2db0-46f7-8225-236b4432e910" />
